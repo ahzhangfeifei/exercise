@@ -1,8 +1,7 @@
 package com.algorithm;
 
 /**
- * @desc 把用A~Z表示的二十六进制转化为十进制数字
- * @company tuniu.com
+ * 把用A~Z表示的二十六进制转化为十进制数字
  * Created by zhangfeifei2 on 2017/7/12.
  */
 public class Excel {

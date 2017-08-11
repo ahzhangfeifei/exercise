@@ -1,8 +1,7 @@
 package com.algorithm;
 
 /**
- * @desc 链表中倒数第k个节点
- * @company tuniu.com
+ * 链表中倒数第k个节点
  * Created by zhangfeifei2 on 2017/7/12.
  */
 class LinkNode {

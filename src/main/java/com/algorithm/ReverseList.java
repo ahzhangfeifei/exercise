@@ -1,8 +1,7 @@
 package com.algorithm;
 
 /**
- * @desc 旋转数组中的最小数字
- * @company tuniu.com
+ * 旋转数组中的最小数字
  * Created by zhangfeifei2 on 2017/7/11.
  */
 public class ReverseList {

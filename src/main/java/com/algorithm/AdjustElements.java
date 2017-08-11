@@ -1,8 +1,7 @@
 package com.algorithm;
 
 /**
- * @desc 调整数组顺序使奇数位于偶数的前面
- * @company tuniu.com
+ * 调整数组顺序使奇数位于偶数的前面
  * Created by zhangfeifei2 on 2017/7/12.
  */
 public class AdjustElements {

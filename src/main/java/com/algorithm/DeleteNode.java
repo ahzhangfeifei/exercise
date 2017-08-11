@@ -1,8 +1,7 @@
 package com.algorithm;
 
 /**
- * @desc 在O(1)时间内删除链表节点
- * @company tuniu.com
+ * 在O(1)时间内删除链表节点
  * Created by zhangfeifei2 on 2017/7/12.
  */
 public class DeleteNode {

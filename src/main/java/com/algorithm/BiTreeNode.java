@@ -1,8 +1,7 @@
 package com.algorithm;
 
 /**
- * @desc 重建二叉树
- * @company tuniu.com
+ * 重建二叉树
  * Created by zhangfeifei2 on 2017/7/11.
  */
 public class BiTreeNode {

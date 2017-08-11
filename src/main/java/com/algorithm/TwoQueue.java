@@ -3,8 +3,7 @@ package com.algorithm;
 import java.util.LinkedList;
 
 /**
- * @desc 两个队列模拟栈
- * @company tuniu.com
+ * 两个队列模拟栈
  * Created by zhangfeifei2 on 2017/7/11.
  */
 public class TwoQueue<T> {

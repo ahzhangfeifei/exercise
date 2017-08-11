@@ -1,8 +1,7 @@
 package com.algorithm;
 
 /**
- * @desc 二进制中1的个数
- * @company tuniu.com
+ * 二进制中1的个数
  * Created by zhangfeifei2 on 2017/7/11.
  */
 public class NumberOf1 {

@@ -1,8 +1,7 @@
 package com.algorithm;
 
 /**
- * @desc 数值的整数次方
- * @company tuniu.com
+ * 数值的整数次方
  * Created by zhangfeifei2 on 2017/7/12.
  */
 public class Pow {

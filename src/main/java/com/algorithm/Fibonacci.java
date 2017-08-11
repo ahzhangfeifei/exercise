@@ -1,8 +1,7 @@
 package com.algorithm;
 
 /**
- * @desc 斐波那契数列
- * @company tuniu.com
+ * 斐波那契数列
  * Created by zhangfeifei2 on 2017/7/11.
  */
 public class Fibonacci {

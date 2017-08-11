@@ -1,8 +1,7 @@
 package com.algorithm;
 
 /**
- * @desc 打印1-最大数 用字符串来存储数字
- * @company tuniu.com
+ * 打印1-最大数 用字符串来存储数字
  * Created by zhangfeifei2 on 2017/7/12.
  */
 public class Print1ToMaxOfNDigits {

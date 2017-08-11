@@ -1,8 +1,7 @@
 package com.algorithm;
 
 /**
- * @desc 跳台阶(Fibonacci变形)
- * @company tuniu.com
+ * 跳台阶(Fibonacci变形)
  * Created by zhangfeifei2 on 2017/7/11.
  */
 public class StageFibonacci {
