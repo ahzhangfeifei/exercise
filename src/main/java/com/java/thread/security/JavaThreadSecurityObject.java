@@ -13,5 +13,8 @@ public class JavaThreadSecurityObject {
     Map<String,Object> concurrentHashMap = new ConcurrentHashMap<>();
     AtomicInteger atomicInteger = new AtomicInteger(0);
     BlockingDeque<Map<String,Object>> blockingDeque = new LinkedBlockingDeque<>();
+    BlockingQueue<Map<String,Object>> blockingQueue1 = new ArrayBlockingQueue<Map<String, Object>>(10);
+    BlockingQueue<Map<String,Object>> blockingQueue2 = new LinkedTransferQueue<Map<String, Object>>();
+    BlockingQueue blockingQueue3 = new DelayQueue();
 
 }
