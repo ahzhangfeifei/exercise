@@ -40,9 +40,9 @@ public abstract class ECCCoder extends Coder {
      * 解密<br>
      * 用私钥解密
      *
-     * @param data
-     * @param key
-     * @return
+     * @param data 加密数据
+     * @param key 加密密钥
+     * @return 解密数据
      * @throws Exception
      */
     public static byte[] decrypt(byte[] data, String key) throws Exception {
@@ -72,9 +72,9 @@ public abstract class ECCCoder extends Coder {
      * 加密<br>
      * 用公钥加密
      *
-     * @param data
-     * @param privateKey
-     * @return
+     * @param data 待加密数据
+     * @param privateKey 私钥
+     * @return 加密后数据
      * @throws Exception
      */
     public static byte[] encrypt(byte[] data, String privateKey)
