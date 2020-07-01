@@ -10,7 +10,7 @@
     <properties>
         <org_springframework_version>4.3.8.RELEASE</org_springframework_version>
         <file_encoding>UTF-8</file_encoding>
-        <mysql_version>5.1.19</mysql_version>
+        <mysql_version>8.0.16</mysql_version>
         <c3p0_version>0.9.5.2</c3p0_version>
     </properties>
     <dependencies>
